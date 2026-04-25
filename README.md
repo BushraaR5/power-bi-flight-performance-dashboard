@@ -3,6 +3,8 @@ End-to-end Power BI dashboard analyzing flights, airline and airport performance
 
 # ✈️ Flight Performance Dashboard (Power BI)
 
+<img width="1372" height="742" alt="image" src="https://github.com/user-attachments/assets/00bf293a-afad-4ecb-829b-5bc35bf5d510" />
+
 ## 📌 Project Overview
 
 This project analyzes **flight performance, delays, and cancellations** using a structured data model built in Power BI.
@@ -69,7 +71,8 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 1. Overview
 
-<img width="1372" height="742" alt="image" src="https://github.com/user-attachments/assets/00bf293a-afad-4ecb-829b-5bc35bf5d510" />
+<img width="337" height="495" alt="image" src="https://github.com/user-attachments/assets/3b2862ae-c10e-4277-9ec3-e487899cab26" />
+
 
 
 - Total flights, OTP %, delay rate, cancellations
@@ -79,6 +82,7 @@ Data was cleaned and transformed using Power Query:
 👉 Key insight:
 
 - **Late Aircraft delays dominate (~40%)**, indicating cascading operational impact
+- **Weather is the primary cause for cancellations (>50%)**
 
 ---
 
@@ -162,7 +166,9 @@ Custom measures were created for:
 
 - Dark theme for better readability
 - Consistent color coding:
-      <img width="177" height="117" alt="image" src="https://github.com/user-attachments/assets/4f86d8f6-8eb3-48fa-9af9-fc3e4136bdd2" />
+  <p align="center">
+  <img width="177" height="117" alt="image" src="https://github.com/user-attachments/assets/4f86d8f6-8eb3-48fa-9af9-fc3e4136bdd2" />
+  </p>
       
 - KPI cards for quick insights
 - Interactive slicers for exploration
