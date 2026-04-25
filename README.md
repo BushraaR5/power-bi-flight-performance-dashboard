@@ -3,6 +3,8 @@ End-to-end Power BI dashboard analyzing flights, airline and airport performance
 
 # ✈️ Flight Performance Dashboard (Power BI)
 
+## 🚀 Dashboard Preview
+
 <img width="1372" height="742" alt="image" src="https://github.com/user-attachments/assets/00bf293a-afad-4ecb-829b-5bc35bf5d510" />
 
 ## 📌 Project Overview
@@ -143,6 +145,36 @@ Data was cleaned and transformed using Power Query:
 👉 Enables granular investigation of delays at individual flight level
 
 ---
+
+## 🧭 How to Use the Dashboard
+
+This dashboard is designed to be interactive and user-friendly, enabling both high-level insights and detailed drill-down analysis.
+
+### 🔹 Navigation
+
+* Click the **airplane icon (top-left)** on any page to return to the **Overview page**
+* Use the **Back button (top-left)** to return to the previous page after drill-through
+
+### 🔹 Filters & Reset
+
+* Use slicers to filter by airline, airport, date, or time
+* Click the **filter icon (top-right)** to **reset all filters** on the current page
+
+### 🔹 Interactive Visuals
+
+* Charts are fully interactive — selecting any element filters the entire page
+* In the **Airline Summary**, use the **Delay / Cancellation buttons** to toggle between views
+
+### 🔹 Drill-Through Functionality
+
+* Drill down from summary visuals into the **Flight-Level Explorer**
+* The selected filters are dynamically displayed in the page heading
+* By default (no filters), the explorer highlights **Late Aircraft delays**
+
+### 🔹 Exploration Tip
+
+* Start from the **Overview page**, then progressively drill into specific airlines, airports, or delay types for deeper insights
+
 
 ## 🧮 Key Metrics (DAX)
 
