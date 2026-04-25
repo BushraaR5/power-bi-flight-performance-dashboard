@@ -5,7 +5,7 @@ End-to-end Power BI dashboard analyzing flights, airline and airport performance
 
 ## 🚀 Dashboard Preview
 
-<img width="1372" height="742" alt="image" src="https://github.com/user-attachments/assets/00bf293a-afad-4ecb-829b-5bc35bf5d510" />
+<img width="1340" height="727" alt="image" src="https://github.com/user-attachments/assets/0942370f-7531-4f34-abc9-0f347cb9910d" />
 
 ## 📌 Project Overview
 
@@ -19,6 +19,16 @@ The goal is to:
 - Compare airline and airport performance
 - Understand temporal patterns in flight operations
 - Build a scalable and optimized data model
+
+---
+
+## 💼 Business Impact
+
+This dashboard enables stakeholders to:
+- Identify operational bottlenecks (Late Aircraft delays ~40%)
+- Compare airline and airport performance
+- Improve scheduling efficiency using delay patterns
+- Reduce cancellations through weather-driven insights
 
 ---
 
@@ -73,9 +83,7 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 1. Overview
 
-<img width="337" height="495" alt="image" src="https://github.com/user-attachments/assets/3b2862ae-c10e-4277-9ec3-e487899cab26" />
-
-
+<img width="342" height="501" alt="image" src="https://github.com/user-attachments/assets/764e1b90-f5f1-4f74-aadd-be7d80f82311" />
 
 - Total flights, OTP %, delay rate, cancellations
 - Monthly performance trends
@@ -90,8 +98,7 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 2. Delay Analysis
 
-<img width="470" height="487" alt="image" src="https://github.com/user-attachments/assets/145348c7-001f-47e0-9827-1cf3bf782315" />
-
+<img width="460" height="488" alt="image" src="https://github.com/user-attachments/assets/a9aebbcb-71eb-416a-87d4-457696f34ff3" />
 
 - Delay trends by cause (Air System, Airline, Late Aircraft)
 - Departure vs arrival delay comparison
@@ -105,8 +112,7 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 3. Airline Analysis
 
-<img width="611" height="506" alt="image" src="https://github.com/user-attachments/assets/4af0e888-7f2f-47ae-a46f-bf19db40c756" />
-
+<img width="601" height="497" alt="image" src="https://github.com/user-attachments/assets/9372cd8a-a18f-4ea1-b7a8-86f7f0ecd10a" />
 
 - Airline performance vs OTP and fleet size
 - Delay distribution by airline
@@ -120,8 +126,7 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 4. Airport Analysis
 
-<img width="506" height="482" alt="image" src="https://github.com/user-attachments/assets/561ad8cf-7165-445a-aa4b-ca2e19079a44" />
-
+<img width="496" height="495" alt="image" src="https://github.com/user-attachments/assets/38158f1e-088e-4de7-8336-24591023529f" />
 
 - Airport efficiency vs traffic volume
 - Delay drivers per airport
@@ -135,8 +140,7 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 5. Flight-Level Explorer
 
-<img width="1341" height="507" alt="image" src="https://github.com/user-attachments/assets/31c613c4-645b-476d-912f-32fd67b517c3" />
-
+<img width="1338" height="518" alt="image" src="https://github.com/user-attachments/assets/8e8c1280-0b65-4af1-83b0-2a7793025005" />
 
 - Detailed flight records
 - Drill-down capability
