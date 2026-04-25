@@ -175,6 +175,7 @@ This dashboard is designed to be interactive and user-friendly, enabling both hi
 
 * Start from the **Overview page**, then progressively drill into specific airlines, airports, or delay types for deeper insights
 
+---
 
 ## 🧮 Key Metrics (DAX)
 
@@ -230,6 +231,14 @@ Custom measures were created for:
 - Power BI
 - Power Query (ETL)
 - DAX (Data Analysis Expressions)
+
+---
+
+## ⚙️ Compatibility Notes
+
+* Developed using **Power BI Desktop (Version: 2.153.910.0, 64-bit – April 2026)**
+* Opening this file in older versions of Power BI may result in missing features or rendering differences
+* It is recommended to use the latest version of Power BI Desktop for full functionality
 
 ---
 
