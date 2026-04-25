@@ -69,6 +69,9 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 1. Overview
 
+<img width="1372" height="742" alt="image" src="https://github.com/user-attachments/assets/00bf293a-afad-4ecb-829b-5bc35bf5d510" />
+
+
 - Total flights, OTP %, delay rate, cancellations
 - Monthly performance trends
 - Delay and cancellation drivers
@@ -80,6 +83,9 @@ Data was cleaned and transformed using Power Query:
 ---
 
 ### 🔹 2. Delay Analysis
+
+<img width="470" height="487" alt="image" src="https://github.com/user-attachments/assets/145348c7-001f-47e0-9827-1cf3bf782315" />
+
 
 - Delay trends by cause (Air System, Airline, Late Aircraft)
 - Departure vs arrival delay comparison
@@ -93,6 +99,9 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 3. Airline Analysis
 
+<img width="611" height="506" alt="image" src="https://github.com/user-attachments/assets/4af0e888-7f2f-47ae-a46f-bf19db40c756" />
+
+
 - Airline performance vs OTP and fleet size
 - Delay distribution by airline
 - Best/worst performing airlines
@@ -105,6 +114,9 @@ Data was cleaned and transformed using Power Query:
 
 ### 🔹 4. Airport Analysis
 
+<img width="506" height="482" alt="image" src="https://github.com/user-attachments/assets/561ad8cf-7165-445a-aa4b-ca2e19079a44" />
+
+
 - Airport efficiency vs traffic volume
 - Delay drivers per airport
 - Best and worst performing airports
@@ -116,6 +128,9 @@ Data was cleaned and transformed using Power Query:
 ---
 
 ### 🔹 5. Flight-Level Explorer
+
+<img width="1341" height="507" alt="image" src="https://github.com/user-attachments/assets/31c613c4-645b-476d-912f-32fd67b517c3" />
+
 
 - Detailed flight records
 - Drill-down capability
