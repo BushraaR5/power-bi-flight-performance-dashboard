@@ -250,6 +250,15 @@ Custom measures were created for:
 
 ---
 
+## 📦 Dataset Note
+
+* Due to file size limitations, a **sample dataset** is included in this repository
+* The full dataset and PBIX file can be accessed via the link below (if provided)
+  🔗 **Download Full Dataset**: [Click here](https://drive.google.com/file/d/1ci4W0pp_bsCgT1ZcDggqb-KrQ1JGxEhx/view?usp=sharing)
+* The sample data preserves the structure and logic of the original model
+
+---
+
 ## 🚀 What This Project Demonstrates
 
 - End-to-end dashboard development
