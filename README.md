@@ -1,9 +1,5 @@
 # power-bi-flight-performance-dashboard
-Power BI dashboard analyzing flight operations across airlines, airports, and routes. Covers delay patterns, cancellations, on-time performance (OTP), and operational drivers using a structured data model and DAX.
-
-## 📊 Live Insights from Flight Operations Data
-
-This Power BI dashboard analyzes airline performance, delay patterns, and airport efficiency using a structured data model and advanced analytics.
+End-to-end Power BI dashboard analyzing flights, airline and airport performance. Covers delay patterns, cancellations, on-time performance (OTP), and operational drivers using a structured data model and DAX.
 
 # ✈️ Flight Performance Dashboard (Power BI)
 
@@ -151,10 +147,8 @@ Custom measures were created for:
 
 - Dark theme for better readability
 - Consistent color coding:
-    - 🟢 Good
-    - 🟡 Average
-    - 🔴 Bad
-    - 🔵 Delay causes
+      <img width="177" height="117" alt="image" src="https://github.com/user-attachments/assets/4f86d8f6-8eb3-48fa-9af9-fc3e4136bdd2" />
+      
 - KPI cards for quick insights
 - Interactive slicers for exploration
 
